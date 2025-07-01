@@ -1,6 +1,6 @@
 # email-summer-sale-project
 
-This is a quick-build HTML email I designed to show clean, responsive structure — something you might use for a product launch or seasonal sale.
+This is a quick-build HTML email I designed to show clean, responsive structure - something you might use for a product launch or seasonal sale.
 
 It's built with plain HTML and CSS. No frameworks, just solid layout with real-world structure: headline, promo blurb, CTA, product blocks, and a footer.
 
@@ -23,7 +23,8 @@ It’s the kind of email I’ve built in the past for campaigns — and now it l
 3. Or paste the code into [Stripo](https://stripo.email) or [Litmus](https://www.litmus.com/) to test it in an email context
 
 ## Screenshot
-![Screenshot of email](https://your-screenshot-link-if-you-upload-one.png)
+![Screenshot of email](https://github.com/connectwithlynsie/email-summer-sale-project/blob/main/screenshot_with_stroke.png?raw=true)
+
 
 ## Connect with me
 More projects and updates here:  
