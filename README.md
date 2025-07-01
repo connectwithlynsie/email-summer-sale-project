@@ -1,6 +1,6 @@
 # email-summer-sale-project
 
-This is a quick-build HTML email I designed to show clean, responsive structure — something you might use for a product launch or seasonal sale.
+This is a quick-build HTML email I designed to show clean, responsive structure, something you might use for a product launch or seasonal sale.
 
 It's built with plain HTML and CSS. No frameworks, just solid layout with real-world structure: headline, promo blurb, CTA, product blocks, and a footer.
 
