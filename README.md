@@ -1,31 +1,31 @@
-# email-summer-sale-project
+# Summer Sale Email + Landing Page Build
 
-This is a quick-build HTML email I designed to show clean, responsive structure - something you might use for a product launch or seasonal sale.
+This mini-project is all about going from concept to clean code - fast. I built this to keep my HTML/CSS skills sharp, show what I can do without frameworks, and practice shipping pixel-perfect, responsive work.
 
-It's built with plain HTML and CSS. No frameworks, just solid layout with real-world structure: headline, promo blurb, CTA, product blocks, and a footer.
+## What I Built
 
-## What it includes
-- Hero image
-- Bold headline + subtext
-- Call-to-action button
-- Two product features (image, name, price)
-- Simple footer with brand and unsubscribe link
+- A responsive HTML email - tested across desktop + mobile
+- A matching landing page to extend the visual story
+- Modular structure for easy reuse + updates
 
-## Why I made it
-I wanted a small, polished piece I could point to and say:  
-“Yes, I can build that. Clean code, solid layout, mobile-ready.”
+No frameworks. No fluff. Just HTML, CSS, and a little finesse.
 
-It’s the kind of email I’ve built in the past for campaigns — and now it lives here as a working example.
+## View the Projects
 
-## How to View It
-1. Download or clone this repo  
-2. Open `Email_Project_Summer_Sale.html` in your browser  
-3. Or paste the code into [Stripo](https://stripo.email) or [Litmus](https://www.litmus.com/) to test it in an email context
+- [Rendered Email View (raw HTML)](https://raw.githubusercontent.com/connectwithlynsie/email-summer-sale-project/main/Email_Project_Summer_Sale.html)  
+- [Rendered Landing Page View (raw HTML)](https://raw.githubusercontent.com/connectwithlynsie/email-summer-sale-project/main/Landing_Page_Summer_Sale.html)
 
-## Screenshot
-![Screenshot of email](https://github.com/connectwithlynsie/email-summer-sale-project/blob/main/screenshot_with_stroke.png?raw=true)
+> *Open in browser to see the layout in action*
 
+## See the Code
 
-## Connect with me
-More projects and updates here:  
-[linkedin.com/in/connectwithlynsie](https://linkedin.com/in/connectwithlynsie)
+- [GitHub Repo](https://github.com/connectwithlynsie/email-summer-sale-project)
+
+## Why This?
+
+I love building systems that are simple, fast, and effective. This is part of my portfolio of small-but-sharp projects focused on real-world frontend work — think email dev, marketing pages, and modular builds.
+
+---
+
+Built by [Lynsie Samani](https://www.linkedin.com/in/connectwithlynsie)  
+Let’s connect if you’re hiring for HTML/CSS, email, or landing page roles.
