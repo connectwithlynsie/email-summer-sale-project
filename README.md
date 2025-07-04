@@ -6,7 +6,7 @@ Designed, built, and tested by me (Lynsie Samani) to showcase layout, spacing, s
 
 ---
 
-### 🔗 View the Rendered Email (Opens in New Tab)
+### 🔗 View the Rendered Email
 <a href="https://raw.githubusercontent.com/connectwithlynsie/email-summer-sale-project/main/Email_Project_Summer_Sale.html" target="_blank" rel="noopener noreferrer">Click to View Full HTML Email</a>
 
 ### 💾 View the Code on GitHub
