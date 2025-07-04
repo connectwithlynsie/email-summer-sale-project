@@ -1,31 +1,34 @@
-# Summer Sale Email + Landing Page Build
+# 🌞 Summer Sale HTML Email
 
-This mini-project is all about going from concept to clean code - fast. I built this to keep my HTML/CSS skills sharp, show what I can do without frameworks, and practice shipping pixel-perfect, responsive work.
+Clean, responsive HTML email built with custom code - no frameworks, no fluff. Just HTML + CSS.  
 
-## What I Built
-
-- A responsive HTML email - tested across desktop + mobile
-- A matching landing page to extend the visual story
-- Modular structure for easy reuse + updates
-
-No frameworks. No fluff. Just HTML, CSS, and a little finesse.
-
-## View the Projects
-
-- [Rendered Email View (raw HTML)](https://raw.githubusercontent.com/connectwithlynsie/email-summer-sale-project/main/Email_Project_Summer_Sale.html)  
-- [Rendered Landing Page View (raw HTML)](https://raw.githubusercontent.com/connectwithlynsie/email-summer-sale-project/main/Landing_Page_Summer_Sale.html)
-
-> *Open in browser to see the layout in action*
-
-## See the Code
-
-- [GitHub Repo](https://github.com/connectwithlynsie/email-summer-sale-project)
-
-## Why This?
-
-I love building systems that are simple, fast, and effective. This is part of my portfolio of small-but-sharp projects focused on real-world frontend work — think email dev, marketing pages, and modular builds.
+Designed, built, and tested by me (Lynsie Samani) to showcase layout, spacing, structure, and responsive email formatting.
 
 ---
 
-Built by [Lynsie Samani](https://www.linkedin.com/in/connectwithlynsie)  
-Let’s connect if you’re hiring for HTML/CSS, email, or landing page roles.
+### 🔗 View the Rendered Email (Opens in New Tab)
+<a href="https://raw.githubusercontent.com/connectwithlynsie/email-summer-sale-project/main/Email_Project_Summer_Sale.html" target="_blank" rel="noopener noreferrer">Click to View Full HTML Email</a>
+
+### 💾 View the Code on GitHub
+<a href="https://github.com/connectwithlynsie/email-summer-sale-project" target="_blank" rel="noopener noreferrer">Open Repo</a>
+
+---
+
+### 🖼️ Screenshot Preview
+
+<img src="screenshot_with_stroke.png" alt="Summer Sale Email Screenshot" width="350">
+
+---
+
+### 🧰 Tech Used
+- HTML5  
+- CSS (inlined + internal)  
+- Mobile-first, responsive layout  
+- Tested in browser & code playgrounds
+
+---
+
+### 👋 Connect With Me
+- <a href="https://www.linkedin.com/in/connectwithlynsie/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+- <a href="https://github.com/connectwithlynsie" target="_blank" rel="noopener noreferrer">GitHub</a>  
+- <a href="https://codepen.io/Lynsie-the-sans" target="_blank" rel="noopener noreferrer">CodePen</a>
